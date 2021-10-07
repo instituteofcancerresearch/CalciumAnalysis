@@ -1,5 +1,5 @@
 # CalciumAnalysis
- Adam Tyson | 21/03/2017 | adam.tyson@icr.ac.uk
+ Adam Tyson | 21/03/2017 | adam.tyson01@icr.ac.uk
 
 To segment 2D timelapse of cellular calcium fluoresence and extract timecourses. N.B. needs a recent version of MATLAB and the Image Processing Toolbox. Should work on Windows/OSX/Linux.
 
